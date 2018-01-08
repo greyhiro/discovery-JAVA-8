@@ -1,6 +1,13 @@
+<<<<<<< HEAD
 .idea
 *.iml
 .classpath
 .project
 .settings
 target
+=======
+/target/
+.settings
+.classpath
+.project
+>>>>>>> master
